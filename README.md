@@ -28,6 +28,8 @@ The model is trained using the training dataset with a specific number of epochs
 After training, the average 'mse' and 'mape' from all epochs are calculated and added to lists for analysis.
 Finally, the validation data is used to make predictions with the trained model.
 
+![image](https://github.com/user-attachments/assets/0f8d0fc8-602b-4d15-a916-942f0991bd9c)
+
 # DICTIONARY OF ELEMENTS (DOCUMENT TRANSLATION ENG/SPA)
 1. Understanding - Data (Entendimiento - Datos)
 2. Graphics (Graficas)
