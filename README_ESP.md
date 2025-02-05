@@ -28,3 +28,4 @@ El modelo se entrena utilizando el conjunto de datos de entrenamiento con un nú
 Después del entrenamiento, se calcula el promedio del 'mse' y 'mape' de todas las épocas y se agregan a listas para su análisis.
 Finalmente, se utilizan los datos de validación para hacer predicciones con el modelo entrenado.
 
+![image](https://github.com/user-attachments/assets/ca59e69a-b40a-46cf-99ce-5d510de4272e)
