@@ -27,3 +27,8 @@ The model is compiled with the 'mean_absolute_error' loss function and 'Adam' op
 The model is trained using the training dataset with a specific number of epochs and batch size defined by 'PASOS', and validated with the validation dataset.
 After training, the average 'mse' and 'mape' from all epochs are calculated and added to lists for analysis.
 Finally, the validation data is used to make predictions with the trained model.
+
+# DICTIONARY OF ELEMENTS (DOCUMENT TRANSLATION ENG/SPA)
+1. Understanding - Data (Entendimiento - Datos)
+2. Graphics (Graficas)
+3. Cleaning and Filtering - RESPEL (Limpieza y Filtrado - RESPEL)
